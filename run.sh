@@ -1,1 +1,1 @@
-docker run --rm -it ubuntu:sahil 
+docker run --rm -it -v ${PWD}:/developer ubuntu:john
